@@ -1,17 +1,18 @@
-# SpaceFleet Manager 🚀
+# 🚀 SpaceFleet Manager  
 
-**SpaceFleet Manager** é uma aplicação web construída com **React** e **TypeScript**, que permite gerenciar naves espaciais, tripulantes e missões de forma interativa e moderna, totalmente responsivo, usando apenas **CSS puro**.
+**SpaceFleet Manager** é uma aplicação web moderna desenvolvida com **React** e **TypeScript**, que permite gerenciar naves espaciais, tripulantes e missões de forma interativa e intuitiva.  
+O sistema é totalmente **responsivo** e utiliza **CSS puro** para garantir um design limpo e futurista.  
 
-## 🔹 Funcionalidades
+## 🔹 Funcionalidades  
 
-- Registrar novas naves com nome, piloto e limite de tripulantes.
-- Adicionar tripulantes às naves existentes.
-- Enviar naves em missões, com validação de tripulação mínima.
-- Visualizar todas as naves registradas em um **dashboard moderno**.
-- Interface futurista, responsiva e interativa.
+- 📦 Cadastro de novas naves com nome, piloto e capacidade máxima de tripulantes.  
+- 👩‍🚀 Adição de tripulantes às naves existentes.  
+- 🪐 Envio de naves em missões, com validação automática da tripulação mínima.  
+- 📊 Visualização de todas as naves em um **dashboard moderno e dinâmico**.  
+- 💻 Interface futurista, interativa e 100% responsiva.  
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias  
 
-- React (com TypeScript)
-- CSS puro para estilização moderna e responsiva
-- Vite como bundler para desenvolvimento rápido
+- ⚛️ **React** (com **TypeScript**)  
+- 🎨 **CSS puro** para estilização moderna e responsiva  
+- ⚡ **Vite** como bundler para desenvolvimento rápido e eficiente
